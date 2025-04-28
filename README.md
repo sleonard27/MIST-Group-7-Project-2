@@ -21,6 +21,8 @@ How do the average number of records for different modes of transportation vary 
 ## Manipulations:
 
 ## Results:
+![Results1]
+![Results2]
 
 ## Analysis:
 
