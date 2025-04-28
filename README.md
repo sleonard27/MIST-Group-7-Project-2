@@ -13,6 +13,11 @@
 
 ## Questions:
 
+How has total ridership and usage of various modes of transit changed since the pandemic in 2020?
+
+How do the average number of records for different modes of transportation vary throughout the week from Sunday to Saturday as well as their weekly totals?
+
+
 ## Manipulations:
 
 ## Results:
