@@ -12,6 +12,22 @@
 
 ## Dataset:
 
+The dataset used in this project is titled "MTA Daily Ridership", sourced from the Metropolitan Transportation Authority (MTA). It includes estimated average daily ridership data for various transit services across New York City from the years 2020 to 2025. Time Frame: 2020–2025, Daily ridership data, Breakdown by Service Type: Subways, Buses, Long Island Rail Road (LIRR), Metro-North Railroad, Staten Island Railway
+
+Fields include:
+
+Total Estimated Ridership
+
+% of Comparable Pre-COVID Ridership
+
+Date (with weekday identification)
+
+(for every mode of transporation)
+
+This dataset helps illustrate how public transit usage has evolved over time, particularly in response to major events like the COVID-19 pandemic, and offers insights into commuting patterns in one of the world’s busiest transit systems.
+
+
+
 ## Questions:
 
 1. How has total ridership and usage of various modes of transit changed since the pandemic in 2020?
