@@ -21,7 +21,7 @@ How do the average number of records for different modes of transportation vary 
 ## Manipulations:
 
 ## Results:
-![Results1]
+![Results1](https://github.com/sleonard27/MIST-Group-7-Project-2/blob/main/Picture1.0.png)
 ![Results2](https://github.com/sleonard27/MIST-Group-7-Project-2/blob/main/Picture2.png)
 
 ## Analysis:
