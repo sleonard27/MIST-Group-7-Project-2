@@ -21,6 +21,20 @@
 
 ## Manipulations:
 
+1. Columns: Date in Years
+   Rows: Measure Values (Sum of Ridership of Buses, Bridges & Tunnels, Subways, LIRR, Staten Island RR,
+   Access-A-Ride, Metro-North Train)
+   Filters: Date in Years (2020-2024)
+   Color: Measure Names
+   Detail: Measure Names
+
+2. Columns: Weekdays
+   Rows: Measure Values (Averages Ridership for Buses, Bridges & Tunnels, Access-A-Ride, Subways, LIRR,
+   Staten Island RR, Metro-North Train)
+   Color: Measure Names
+   Label: Measure Names, Measure Values (Sum of Average Ridership per week)
+
+
 ## Results:
 
 Graph 1
