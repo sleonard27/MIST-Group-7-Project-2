@@ -34,9 +34,13 @@
    Detail: Measure Names
 
 3. Columns: Weekdays
+
    Rows: Measure Values (Averages Ridership for Buses, Bridges & Tunnels, Access-A-Ride, Subways, LIRR,
+
    Staten Island RR, Metro-North Train)
+
    Color: Measure Names
+
    Label: Measure Names, Measure Values (Sum of Average Ridership per week)
 
 
