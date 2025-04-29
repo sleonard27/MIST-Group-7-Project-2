@@ -22,6 +22,8 @@ Total Estimated Ridership
 
 Date (with weekday identification)
 
+15 Columns and 1776 Rows
+
 This dataset helps illustrate how public transit usage has evolved over time, particularly in response to major events like the COVID-19 pandemic, and offers insights into commuting patterns in one of the world’s busiest transit systems.
 
 
@@ -30,33 +32,20 @@ This dataset helps illustrate how public transit usage has evolved over time, pa
 
 1. How has total ridership and usage of various modes of transit changed since the pandemic in 2020?
 
+Understanding shifts in ridership since 2020 reveals how public behavior and confidence in shared transportation have evolved post-COVID. These trends impact economic planning,
+fare revenue, and decisions on service adjustments or infrastructure investment. They also reflect broader societal changes like remote work, urban migration, and environmental
+concerns. The dataset provides daily ridership counts for five major transit services from 2020 to 2025. 
+
 2. How do the average number of records for different modes of transportation vary throughout the week from Sunday to Saturday as well as their weekly totals?
 
+Analyzing weekday versus weekend ridership helps transit authorities optimize scheduling and allocate resources efficiently. It highlights commuter patterns, such as the
+dominance of work-related travel on weekdays or recreational travel on weekends. These insights can support better planning, reduce waste, and improve rider experience. The
+dataset includes daily entries with the day of the week identified, making it ideal for grouping and comparing ridership by day. Each record includes ridership figures for all
+transit types, allowing for both daily average and weekly total analysis.
 
 ## Manipulations:
 
-1. Columns: Date in Years
-
-   Rows: Measure Values (Sum of Ridership of Buses, Bridges & Tunnels, Subways, LIRR, Staten Island RR,
-
-   Access-A-Ride, Metro-North Train)
-
-   Filters: Date in Years (2020-2024)
-
-   Color: Measure Names
-
-   Detail: Measure Names
-
-3. Columns: Weekdays
-
-   Rows: Measure Values (Averages Ridership for Buses, Bridges & Tunnels, Access-A-Ride, Subways, LIRR,
-
-   Staten Island RR, Metro-North Train)
-
-   Color: Measure Names
-
-   Label: Measure Names, Measure Values (Sum of Average Ridership per week)
-
+The main manipulations that we did were changing the date into groups of years or looking at weekdays for the second question. We also manipulated the data by looking for the sum and averages for ridership for specific periods of time. We used Tableau's Data Filter and Values Calculations features to do these manipulations. These steps were essential to simplify the dataset and provide meaningful insights for both of our research questions.
 
 ## Results:
 
